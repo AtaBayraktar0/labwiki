@@ -53,8 +53,13 @@ permalink: /docs/technologies/KNKForce
    - Upload SVG.
    - Calibrate the Cutting tool.![Calibration](/assets/images/KNKF_3.jpg)
    - Put Vinyl Paper on the cutting mat and tape it.
-   - Prepare and send.
+   - Prepare and send. 
 
+   - Extra Images:
+      -![](/assets/images/KNK_Cutting.jpg)
+      -![](/assets/images/KNK_Cutting2.jpg)
+      -![](/assets/images/RDF_KNK_Result.jpg)
+      
  ## First Cut:
    - You’ll need an IP Address to start cutting. (The KNK with “Print and Cut sticker” has 10.0.0.1 as an IP).
    - IP address can be obtained by:
